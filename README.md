@@ -159,7 +159,7 @@ For each automobile discovered:
 
   \- **Reproduction, reuse, or distribution is strictly prohibited.**
 
-  \- See the \[LICENSE] file for full terms.
+  \- See the \LICENSE file for full terms.
 
   
 
