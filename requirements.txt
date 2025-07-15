@@ -1,0 +1,9 @@
+tqdm
+numpy
+pandas
+torch
+ultralytics
+torchvision
+opencv-python
+
+
