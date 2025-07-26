@@ -145,7 +145,6 @@ This project is shared publicly *only for resume, portfolio, and internship/job 
   
 
 * **Reproduction, reuse, or distribution is strictly prohibited.**
-* See the LICENSE file for full terms.
 
   
 
