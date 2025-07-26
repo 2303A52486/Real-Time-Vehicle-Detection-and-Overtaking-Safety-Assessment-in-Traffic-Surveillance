@@ -137,18 +137,15 @@ For each automobile discovered:
   ### LICENSE:
 
   
+All Rights Reserved © 2025 Vajinapalli Abhinav.
 
-  All Rights Reserved © 2025 Vajinapalli Abhinav.
+  
+This project is shared publicly *only for resume, portfolio, and internship/job application purposes*.
 
   
 
-  This project is shared publicly *only for resume, portfolio, and internship/job application purposes*.
-
-  
-
-  \- **Reproduction, reuse, or distribution is strictly prohibited.**
-
-  \- See the LICENSE file for full terms.
+* **Reproduction, reuse, or distribution is strictly prohibited.**
+* See the LICENSE file for full terms.
 
   
 
