@@ -40,17 +40,12 @@ The system generates an annotated video with visual overlays and tracks progress
 * Example input video: sample\_video.mp4
 * The vehicle classes alone are identified:
 
- 	| Class      | COCO ID |
-
- 	| ---------- | ------- |
-
- 	| Car        | 3       |
-
- 	| Motorcycle | 4       |
-
- 	| Bus        | 6       |
-
- 	| Truck      | 8       |
+| Class      | COCO ID |
+| ---------- | ------- |
+| Car        | 3       |
+| Motorcycle | 4       |
+| Bus        | 6       |
+| Truck      | 8       |
 
 
 
