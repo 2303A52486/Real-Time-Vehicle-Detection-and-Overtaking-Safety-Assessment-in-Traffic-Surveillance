@@ -117,18 +117,12 @@ For each automobile discovered:
   
 
   ### Evaluation Summary:
-
-  | Metric                | Description                    |
-
-  | --------------------- | ------------------------------ |
-
-  | Batch Size            | 8 frames                       |
-
-  | Inference Speed       | Moderate (GPU recommended)     |
-
-  | Detection Classes     | Vehicle-only                   |
-
-  | Visualization         | Bounding boxes + Text overlays |
+| Metric                | Description                    |
+| --------------------- | ------------------------------ |
+| Batch Size            | 8 frames                       |
+| Inference Speed       | Moderate (GPU recommended)     |
+| Detection Classes     | Vehicle-only                   |
+| Visualization         | Bounding boxes + Text overlays |
 
   
 
